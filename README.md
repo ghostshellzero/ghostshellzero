@@ -1,6 +1,6 @@
 # Hey, I'm Garrett 👋
 
-I'm a career-changer who spent years behind the wheel of a semi-truck before making a deliberate pivot into cloud and IT. I passed my **AWS Certified Cloud Practitioner** exam in June 2026 and I'm actively working toward the **Solutions Architect Associate**.
+I'm a career-changer who spent a year behind the wheel of a semi-truck before making a deliberate pivot into cloud and IT. I passed my **AWS Certified Cloud Practitioner** exam in June 2026 and I'm actively working toward the **Solutions Architect Associate**.
 
 I don't just follow tutorials — I work on real systems. That means building multi-tier AWS infrastructure with Terraform, running CI/CD pipelines with GitHub Actions, hardening Linux machines, patching firmware vulnerabilities, and writing Python that actually does things.
 
