@@ -1,11 +1,5 @@
-[README.md](https://github.com/user-attachments/files/33036000/README.md)
-## Hi there 👋
-
-<!--
-**ghostshellzero/ghostshellzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hey, I'm Garrett 👋
+ Hi there 👋
+ Hey, I'm Garrett 👋
 
 I'm a career-changer who got my Class A CDL, spent time behind the wheel of a semi-truck, and made a deliberate pivot into cloud and IT. I passed my AWS Certified Cloud Practitioner exam in June 2026 and I'm working toward the Solutions Architect Associate.
 
@@ -56,6 +50,6 @@ Based in Portland, OR and actively looking for cloud, DevOps, and IT roles.
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/your-link) · [GitHub](https://github.com/ghostshellzero)
+[LinkedIn](www.linkedin.com/in/garrett-f-871738403) · [GitHub](https://github.com/ghostshellzero)
 
 *"The road to cloud is longer than a cross-country haul, but the view is better."*
