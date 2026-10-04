@@ -1,5 +1,4 @@
- Hi there 👋
- Hey, I'm Garrett 👋
+ Hi there, I'm Garrett 👋
 
 I'm a career-changer who got my Class A CDL, spent time behind the wheel of a semi-truck, and made a deliberate pivot into cloud and IT. I passed my AWS Certified Cloud Practitioner exam in June 2026 and I'm working toward the Solutions Architect Associate.
 
